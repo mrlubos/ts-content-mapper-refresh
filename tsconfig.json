@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "nodenext",
+    "noEmit": true,
+    "strict": true,
+    "target": "esnext"
+  },
+  "contentMappers": [{ "package": "toy-mapper", "extensions": [".data"] }]
+}

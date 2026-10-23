@@ -1,0 +1,12 @@
+{
+  "name": "ts-mapper-refresh",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "repro": "node repro.mjs"
+  },
+  "devDependencies": {
+    "toy-mapper": "file:./toy-mapper",
+    "typescript": "7.1.0-beta"
+  }
+}
